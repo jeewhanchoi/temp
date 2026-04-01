@@ -69,5 +69,6 @@ void usage(int argc, char** argv)
 void find_file(char* dir_name, char* file_to_find)
 {
 	printf("hello world\n");
+	printf("third line\n");
 }
 
